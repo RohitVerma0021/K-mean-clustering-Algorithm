@@ -2,7 +2,7 @@
 pyhton3.7 or above
 
 # What are the required python packages ?
-pyhton pyspark
+pyhton ,pyspark ,
 padas 
 # About the data
 i am using the bakery dataset to find the dairy product information and  accuracy of the model 
